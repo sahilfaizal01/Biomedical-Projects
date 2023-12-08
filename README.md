@@ -9,3 +9,4 @@ https://www.kaggle.com/datasets/chopinforest/esophageal-endoscopy-images
 
 ### Bladder Tissue Classification
 https://www.kaggle.com/code/banddaniel/bladder-tissue-classification-w-vit-f1-scr-0-82
+https://www.kaggle.com/code/xokent/endoscopic-bladder-tissue-classification
