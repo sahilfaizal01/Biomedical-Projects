@@ -39,15 +39,6 @@ The data is collected using endoscopic equipment at Vestre Viken Health Trust (V
 ## Applications of the Dataset
 Our vision is that the available data may eventually help researchers to develop systems that improve the healthcare system in the context of disease detection in videos of the GI tract. Such a system may automate video analysis and endoscopic findings detection in the esophagus, stomach, bowel, and rectum. Important results will include higher detection accuracies, reduced manual labor for medical personnel, reduced average cost, less patient discomfort and possibly increased willingness to undertake the examination. In the end, the improved screening will probably significantly reduce mortality and several luminal GI disease incidents. For direct use in multimedia research areas, the main application area of Kvasir is the automatic detection, classification, and localization of endoscopic pathological findings in an image captured in the GI tract. Thus, the provided dataset can be used in several scenarios where the aim is to develop and evaluate algorithmic analysis of images. Using the same collection of data, researchers can easily compare approaches and experimental results, and results can be reproduced. In particular, in the area of image retrieval and object detection, Kvasir will play an important initial role where the image collection can be divided into training and test sets for developments of and experiments for various image retrieval and object localization methods including search-based systems, neural-networks, video analysis, information retrieval, machine learning, object detection, deep learning, computer vision, data fusion, and big data processing.
 
-## Provenance
-The Kvasir dataset was created within the Norwegian FRINATEK project "EONS" (#231687) at Simula Research Laboratory, Norway.
-
-## Data Documentation
-The data and the detailed description and usage instructions are published online at the dataset web page http://datasets.simula.no/kvasir/
-
-## Work Flows
-The images provided can be used for developing, testing, and comparison of different image recognition and classification approaches regarding their specific procedures.
-
 ## Suggested Metrics
 Looking at the list of related work in this area, there are a lot of different metrics used, with potentially different names when used in the medical area and the computer science (information retrieval) area. Here, we provide a small list of the most important metrics. For future research, in addition to describing the dataset to a total number of images, the total number of images in each class, and the total number of positives, it might be good to provide as many of the metrics below as possible to enable an indirect comparison with older work:
 
@@ -62,18 +53,6 @@ Looking at the list of related work in this area, there are a lot of different m
 * Matthews correlation coefficient (MCC):- MCC takes into account true and false positives and negatives, and is a balanced measure even if the classes are of very different sizes.
 * F1 score (F1):- A measure of a test’s accuracy by calculating the harmonic mean of the precision and recall.
 In addition to the above metrics, system performance metrics processing speed and resource consumption are of interest. In our work, we have used the achieved frame rate (FPS) as a metric as real-time feedback is important.
-
-## Evaluation:
-The dataset was used to generate all results presented in the article KVASIR: A Multi-Class Image Dataset for Computer Aided Gastrointestinal Disease Detection, from the Proceedings of the 8th ACM on Multimedia Systems Conference, 2017.
-
-## Terms of use
-The use of the Kvasir dataset is restricted for research and educational purposes only. The use of the Kvasir dataset for other purposes including commercial purposes is forbidden without prior written permission. In all documents and papers that use or refer to the Kvasir dataset or report experimental results based on the Kvasir dataset, a reference to the dataset paper has to be included.
-
-## Contact
-Email Michael/paalh (at) simula (dot) no if you have any questions about the dataset and our research activities. We always welcome collaboration and joint research!
-
-## License
-Permission to use, copy, modify, and distribute this data and its documentation is hereby granted, provided that both the copyright notice and this permission notice appear in all copies of the data, derivative works or modified versions, and any portions thereof, and that both notices appear in supporting documentation. This THE AUTHORS AND SIMULA RESEARCH LABORATORY DISCLAIM ANY LIABILITY OF ANY KIND FOR ANY DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS DATA.
 
 # Links
 Dataset: https://www.kaggle.com/datasets/abdallahwagih/kvasir-dataset-for-classification-and-segmentation/data
