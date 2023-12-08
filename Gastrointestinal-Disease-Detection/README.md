@@ -29,6 +29,8 @@
 
 <img width="917" alt="image" src="https://github.com/sahilfaizal01/Biomedical-Projects/assets/106440078/c1fab843-c278-4b8f-862b-3bb6e55b32dc">
 
+<img width="705" alt="image" src="https://github.com/sahilfaizal01/Biomedical-Projects/assets/106440078/384107db-30ff-4c18-9052-899a36b0f2de">
+
 ## ALGORITHMS
 
 ## TOOLS
